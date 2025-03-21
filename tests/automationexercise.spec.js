@@ -34,7 +34,8 @@ console.log(congrts)
 await page.locator("//*[@class='btn btn-primary']").click()
 await expect(page).toHaveTitle('Automation Exercise')
 await expect(page).toHaveURL(process.env.automation_URL)
+await expect(page).toHaveURL(process.env.automation_URL)
 await page.waitForTimeout(3000)
-await page.waitForTimeout(3000)
+
 
 })  
