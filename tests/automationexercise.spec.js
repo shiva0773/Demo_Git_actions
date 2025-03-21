@@ -37,5 +37,4 @@ await expect(page).toHaveURL(process.env.automation_URL)
 await expect(page).toHaveURL(process.env.automation_URL)
 await page.waitForTimeout(3000)
 
-
 })  
