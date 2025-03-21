@@ -1,0 +1,24 @@
+{
+"title":"Sign In | Pega Studio Training Web Application",
+
+"title1":"ACME Product Search System",
+"title2":"Order | Pega Studio Training Web Application",
+"fistname":"feuji",
+"lastname":"software",
+"companyname":"feujisoftware",
+"address":"rayadurgam",
+"zip":"500082",
+"areacode":"12345",
+"phone":"123445678",
+
+"cardtype":"Visa",
+"s_code":"123",
+"card_num":"123456789",
+"month":"June",
+"year":"2020",
+"product":["Chai", "Chang", "Cote de Blaye"]
+
+
+
+
+}
